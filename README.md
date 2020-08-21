@@ -1,2 +1,2 @@
 # JavaStudyProject
-一个记录java学习的项目
+A project to record java learning
